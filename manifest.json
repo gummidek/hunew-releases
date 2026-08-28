@@ -1,0 +1,9 @@
+{
+  "product": "hunew-desktop",
+  "version": "1.0.14",
+  "released": "2026-08-28",
+  "asset": "HUNEW-Setup-1.0.14.exe",
+  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.14/HUNEW-Setup-1.0.14.exe",
+  "sha256": "00fa28f726746e05ecb7ac519a3a1ad14bb63d310a73fab69917f4a2f39e6498",
+  "notes": "HUNEW 1.0.14 — auto-update, supportUntil v licenci, Aktualizovat licenci v O programu a Nastaveni."
+}
