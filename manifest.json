@@ -1,9 +1,9 @@
-{
-  "product": "hunew-desktop",
-  "version": "1.0.19",
-  "released": "2026-08-30",
-  "asset": "HUNEW-Setup-1.0.19.exe",
-  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.19/HUNEW-Setup-1.0.19.exe",
-  "sha256": "ac2200f9ac42dc3dcdcdfc91e0f3c2c3bd0e407934bf9a432b3e68516dcc3f72",
-  "notes": "HUNEW 1.0.19\n\n- Oprava: text v poli Heslo / TextBox byl orezany"
+﻿{
+    "product":  "hunew-desktop",
+    "version":  "1.0.20",
+    "released":  "2026-08-30",
+    "asset":  "HUNEW-Setup-1.0.20.exe",
+    "url":  "https://github.com/gummidek/hunew-releases/releases/download/v1.0.20/HUNEW-Setup-1.0.20.exe",
+    "sha256":  "45083b72a7b90518ffd090f900da4b8e9e4c7e419ca235365248543ff9aa4125",
+    "notes":  "HUNEW 1.0.20\r\n\r\n- Spolecny provoz / 2 rezimy (Combined): jeden HotelCode, filtr Hotel|Wellness|Oboji\r\n- Wizard: 4 volby â€” hotel, wellness, 2 samostatne provozy, 1 spolecny / 2 rezimy\r\n- Presun zony i vice skrinek mezi hotel/wellness (Ctrl/Shift vyber)\r\n- Hostovska karta: vyber jednotek z obou rezimu (evidence MultiDoor; exclusive HW = primarni na cip)\r\n- Nastaveni: srovnane karty; Reporty: nahled tisku pred tiskem\r\n- Struktura: oprava viditelnosti nazvu; hromadny presun skrinek\r\n- StĂˇvajĂ­cĂ­ Single / Twin / Horal beze zmeny chovani (Topology default Single)"
 }
