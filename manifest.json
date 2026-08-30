@@ -1,9 +1,9 @@
 {
   "product": "hunew-desktop",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "released": "2026-08-30",
-  "asset": "HUNEW-Setup-1.0.17.exe",
-  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.17/HUNEW-Setup-1.0.17.exe",
-  "sha256": "085ebc2543ccafc3c89f6fad33b8b097433e636b132f4adeaef59278b10e27a1",
-  "notes": "HUNEW 1.0.17\n\n- Oprava stahovani aktualizace (SHA256 / zamceny soubor v Temp)\n- Unikatni nazev docasneho souboru pri update"
+  "asset": "HUNEW-Setup-1.0.18.exe",
+  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.18/HUNEW-Setup-1.0.18.exe",
+  "sha256": "e904223b5fc728b8d3a2f69076b7465303892566f91c2311a18450874acadf4e",
+  "notes": "HUNEW 1.0.18\n\n- Vzdalena podpora: RustDesk ID a heslo automaticky do tela e-mailu\n- Oprava orezanych tlacitek na encoder gate\n- Kulate rohy u TextBox / PasswordBox"
 }
