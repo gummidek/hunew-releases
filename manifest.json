@@ -1,9 +1,9 @@
 ﻿{
     "product":  "hunew-desktop",
-    "version":  "1.0.20",
-    "released":  "2026-08-30",
-    "asset":  "HUNEW-Setup-1.0.20.exe",
-    "url":  "https://github.com/gummidek/hunew-releases/releases/download/v1.0.20/HUNEW-Setup-1.0.20.exe",
-    "sha256":  "45083b72a7b90518ffd090f900da4b8e9e4c7e419ca235365248543ff9aa4125",
-    "notes":  "HUNEW 1.0.20\r\n\r\n- Spolecny provoz / 2 rezimy (Combined): jeden HotelCode, filtr Hotel|Wellness|Oboji\r\n- Wizard: 4 volby â€” hotel, wellness, 2 samostatne provozy, 1 spolecny / 2 rezimy\r\n- Presun zony i vice skrinek mezi hotel/wellness (Ctrl/Shift vyber)\r\n- Hostovska karta: vyber jednotek z obou rezimu (evidence MultiDoor; exclusive HW = primarni na cip)\r\n- Nastaveni: srovnane karty; Reporty: nahled tisku pred tiskem\r\n- Struktura: oprava viditelnosti nazvu; hromadny presun skrinek\r\n- StĂˇvajĂ­cĂ­ Single / Twin / Horal beze zmeny chovani (Topology default Single)"
+    "version":  "1.0.21",
+    "released":  "2026-09-07",
+    "asset":  "HUNEW-Setup-1.0.21.exe",
+    "url":  "https://github.com/gummidek/hunew-releases/releases/download/v1.0.21/HUNEW-Setup-1.0.21.exe",
+    "sha256":  "52702ede90e8c35caa538262ad6ed8bb5068bcecb1535b3cd3a1fc77880f06a4",
+    "notes":  "HUNEW 1.0.21\r\n\r\n- Hotel: jasny Check In / Check Out v panelu a v menu pokoje (Lodge In beze zmeny)\r\n- Check Out = odevzdana karta (Cist â†’ ukoncit pobyt); Ztrata = odjezd s kartou\r\n- Wellness beze zmeny (Hostovska / Ztrata)"
 }
