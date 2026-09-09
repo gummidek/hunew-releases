@@ -1,9 +1,9 @@
 ﻿{
     "product":  "hunew-desktop",
-    "version":  "1.0.21",
-    "released":  "2026-09-07",
-    "asset":  "HUNEW-Setup-1.0.21.exe",
-    "url":  "https://github.com/gummidek/hunew-releases/releases/download/v1.0.21/HUNEW-Setup-1.0.21.exe",
-    "sha256":  "52702ede90e8c35caa538262ad6ed8bb5068bcecb1535b3cd3a1fc77880f06a4",
-    "notes":  "HUNEW 1.0.21\r\n\r\n- Hotel: jasny Check In / Check Out v panelu a v menu pokoje (Lodge In beze zmeny)\r\n- Check Out = odevzdana karta (Cist â†’ ukoncit pobyt); Ztrata = odjezd s kartou\r\n- Wellness beze zmeny (Hostovska / Ztrata)"
+    "version":  "1.0.22",
+    "released":  "2026-09-09",
+    "asset":  "HUNEW-Setup-1.0.22.exe",
+    "url":  "https://github.com/gummidek/hunew-releases/releases/download/v1.0.22/HUNEW-Setup-1.0.22.exe",
+    "sha256":  "5ddf1459b2cdd5aea75d96055e8d40f6ed4f4e7eae2a0cacce9e9818cdc55e32",
+    "notes":  "HUNEW 1.0.22\r\n\r\n- Guest / Check In: platnost odâ€“do s datem i casem (jako puvodni HUNE)\r\n- Wellness: vychozi ted â†’ +2 h, rychle +1/+2/+4 h / +1 den\r\n- Hotel: Out Time typicky 12:00:00; cas se zapisuje na kartu"
 }
