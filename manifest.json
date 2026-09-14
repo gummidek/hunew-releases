@@ -1,9 +1,9 @@
-﻿{
-    "product":  "hunew-desktop",
-    "version":  "1.0.22",
-    "released":  "2026-09-09",
-    "asset":  "HUNEW-Setup-1.0.22.exe",
-    "url":  "https://github.com/gummidek/hunew-releases/releases/download/v1.0.22/HUNEW-Setup-1.0.22.exe",
-    "sha256":  "5ddf1459b2cdd5aea75d96055e8d40f6ed4f4e7eae2a0cacce9e9818cdc55e32",
-    "notes":  "HUNEW 1.0.22\r\n\r\n- Guest / Check In: platnost odâ€“do s datem i casem (jako puvodni HUNE)\r\n- Wellness: vychozi ted â†’ +2 h, rychle +1/+2/+4 h / +1 den\r\n- Hotel: Out Time typicky 12:00:00; cas se zapisuje na kartu"
+{
+  "product": "hunew-desktop",
+  "version": "1.0.27",
+  "released": "2026-09-14",
+  "asset": "HUNEW-Setup-1.0.27.exe",
+  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.27/HUNEW-Setup-1.0.27.exe",
+  "sha256": "426646644380d23100aeffb16b186ed670b78bc72a00a91cb0f93d78ef55d3c6",
+  "notes": "HUNEW 1.0.27\n\n- Guest na exclusive zámcích (Horal S10 / Astra S5): mid 008000 (mode1), ne PackDateTime — oprava odmítnutí skříňkou\n- B5[3]=01 u Guest exclusive\n- SQL: kompatibilita bez OPENJSON '$' (starší SQL Server) při Check-out / aktivních kartách\n- First-run schema bootstrap a úpravy migrace / SQL site pro rescue DB"
 }
