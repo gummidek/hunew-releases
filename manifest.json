@@ -5,5 +5,5 @@
   "asset": "HUNEW-Setup-1.0.27.exe",
   "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.27/HUNEW-Setup-1.0.27.exe",
   "sha256": "426646644380d23100aeffb16b186ed670b78bc72a00a91cb0f93d78ef55d3c6",
-  "notes": "HUNEW 1.0.27\n\n- Guest na exclusive zámcích (Horal S10 / Astra S5): mid 008000 (mode1), ne PackDateTime — oprava odmítnutí skříňkou\n- B5[3]=01 u Guest exclusive\n- SQL: kompatibilita bez OPENJSON '$' (starší SQL Server) při Check-out / aktivních kartách\n- First-run schema bootstrap a úpravy migrace / SQL site pro rescue DB"
+  "notes": "HUNEW 1.0.27\n\n- Exclusive Guest mid 008000 (Horal/Astra) instead of PackDateTime\n- Guest B5[3]=01\n- SQL Server OPENJSON '$' compatibility\n- First-run schema bootstrap / rescue DB helpers"
 }
