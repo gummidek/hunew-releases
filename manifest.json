@@ -5,5 +5,5 @@
   "asset": "HUNEW-Setup-1.0.28.exe",
   "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.28/HUNEW-Setup-1.0.28.exe",
   "sha256": "23a71a11e7c4580e9d4e2a47188f3d0c817eb37992d4f857529c19ee7ee6974f",
-  "notes": "HUNEW 1.0.28\n\n- Guest always mode0 PackDateTime(ValidTo); removed forced mid 008000\n- 008000 as mode0 was ValidTo 2026-08-02 12:00 → lock rejected as expired\n- Re-issue with ValidTo in the future (hotel Out typically next day 12:00)"
+  "notes": "HUNEW 1.0.28\n\n- Guest always mode0 PackDateTime(ValidTo); removed forced mid 008000\n- 008000 as mode0 was ValidTo 2026-08-02 12:00 → lock rejected as expired\n- Re-issue with ValidTo in the future (hotel Out typically next day 12:00)\n"
 }
