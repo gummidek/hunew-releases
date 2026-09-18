@@ -1,9 +1,9 @@
 {
   "product": "hunew-desktop",
-  "version": "1.0.28",
+  "version": "1.0.31",
   "released": "2026-09-18",
-  "asset": "HUNEW-Setup-1.0.28.exe",
-  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.28/HUNEW-Setup-1.0.28.exe",
-  "sha256": "23a71a11e7c4580e9d4e2a47188f3d0c817eb37992d4f857529c19ee7ee6974f",
-  "notes": "HUNEW 1.0.28 - Guest mode0 PackDateTime(ValidTo); removed forced mid 008000 (was expired 2026-08-02)."
+  "asset": "HUNEW-Setup-1.0.31.exe",
+  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.31/HUNEW-Setup-1.0.31.exe",
+  "sha256": "766d4d52583418e52d330ec66915ea1f2071b15829658fe99aac165f3750527d",
+  "notes": "HUNEW 1.0.31\r\n\r\n• Guest karty: CardNo low-byte + pad jako lock.exe; TerminateOld (typ 000E + nový RPass)\r\n• Vrátit čip / Check Out: automatické ukončení v DB + rychlé smazání hotelového sektoru (~2 s místo ~15 s)\r\n• RPass sync / uvolnění skříněk po vrácení"
 }
