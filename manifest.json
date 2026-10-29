@@ -1,9 +1,9 @@
 {
   "product": "hunew-desktop",
-  "version": "1.0.32",
+  "version": "1.0.33",
   "released": "2026-10-29",
-  "asset": "HUNEW-Setup-1.0.32.exe",
-  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.32/HUNEW-Setup-1.0.32.exe",
-  "sha256": "5b3346f7c6a7d60bc21bf5d47e23bdf7bd4a28e683cb5c5323b4f2b6edd49d39",
-  "notes": "HUNEW 1.0.32 (diagnostický build – Hotel Horal)\n\n• Vývojářské nástroje → Horal diag: preflight, čtení karet (PM3/Chameleon/enkodér), porovnání A↔B\n• Hledání DB lock.exe (recepce / wellness) a RPass karty ve všech DB – jen čtení\n• Access ↔ SQL porovnání RPass, test výdej na prázdnou kartu (jen sektor 10), sniff PM3, nouzový ZIP\n• Oprava PM3 (Qt platforms), Chameleon dump, začernění klíčů v logu\n• Běžné vydávání karet beze změny"
+  "asset": "HUNEW-Setup-1.0.33.exe",
+  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.33/HUNEW-Setup-1.0.33.exe",
+  "sha256": "05540686283d9a3346423f2ec35ec23d99819a68fafe1acc379f6c8fb7ec1fdc",
+  "notes": "HUNEW 1.0.33 (diag build Horal): Horal diagnostika - SQL audit + oprava (jen HUNEW, zaloha a rollback), volitelny Horal rezim vydeje (profil bajtu z referencnich karet, vychozi vypnuto), uprava rozlozeni diag okna. Bez zmeny vychoziho vydeje."
 }
