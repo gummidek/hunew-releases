@@ -1,9 +1,9 @@
 {
   "product": "hunew-desktop",
-  "version": "1.0.33",
+  "version": "1.0.34",
   "released": "2026-10-29",
-  "asset": "HUNEW-Setup-1.0.33.exe",
-  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.33/HUNEW-Setup-1.0.33.exe",
-  "sha256": "05540686283d9a3346423f2ec35ec23d99819a68fafe1acc379f6c8fb7ec1fdc",
-  "notes": "HUNEW 1.0.33 (diag build Horal): Horal diagnostika - SQL audit + oprava (jen HUNEW, zaloha a rollback), volitelny Horal rezim vydeje (profil bajtu z referencnich karet, vychozi vypnuto), uprava rozlozeni diag okna. Bez zmeny vychoziho vydeje."
+  "asset": "HUNEW-Setup-1.0.34.exe",
+  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.34/HUNEW-Setup-1.0.34.exe",
+  "sha256": "aa81d729906f2bed437d9033850e284647e487ec0bcdd5f8ee414bfe341d42ae",
+  "notes": "HUNEW 1.0.34 (diag build Horal): Horal pruvodce krok za krokem, export ZIP na USB (bez klicu), zalozka Pokrocile s popisy nastroju. Bez zmeny vychoziho vydeje."
 }
