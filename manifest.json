@@ -1,9 +1,9 @@
 {
   "product": "hunew-desktop",
-  "version": "1.0.31",
-  "released": "2026-09-18",
-  "asset": "HUNEW-Setup-1.0.31.exe",
-  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.31/HUNEW-Setup-1.0.31.exe",
-  "sha256": "766d4d52583418e52d330ec66915ea1f2071b15829658fe99aac165f3750527d",
-  "notes": "HUNEW 1.0.31\r\n\r\n• Guest karty: CardNo low-byte + pad jako lock.exe; TerminateOld (typ 000E + nový RPass)\r\n• Vrátit čip / Check Out: automatické ukončení v DB + rychlé smazání hotelového sektoru (~2 s místo ~15 s)\r\n• RPass sync / uvolnění skříněk po vrácení"
+  "version": "1.0.32",
+  "released": "2026-10-29",
+  "asset": "HUNEW-Setup-1.0.32.exe",
+  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.32/HUNEW-Setup-1.0.32.exe",
+  "sha256": "5b3346f7c6a7d60bc21bf5d47e23bdf7bd4a28e683cb5c5323b4f2b6edd49d39",
+  "notes": "HUNEW 1.0.32 (diagnostický build – Hotel Horal)\n\n• Vývojářské nástroje → Horal diag: preflight, čtení karet (PM3/Chameleon/enkodér), porovnání A↔B\n• Hledání DB lock.exe (recepce / wellness) a RPass karty ve všech DB – jen čtení\n• Access ↔ SQL porovnání RPass, test výdej na prázdnou kartu (jen sektor 10), sniff PM3, nouzový ZIP\n• Oprava PM3 (Qt platforms), Chameleon dump, začernění klíčů v logu\n• Běžné vydávání karet beze změny"
 }
