@@ -1,9 +1,9 @@
 {
   "product": "hunew-desktop",
-  "version": "1.0.34",
-  "released": "2026-10-29",
-  "asset": "HUNEW-Setup-1.0.34.exe",
-  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.34/HUNEW-Setup-1.0.34.exe",
-  "sha256": "aa81d729906f2bed437d9033850e284647e487ec0bcdd5f8ee414bfe341d42ae",
-  "notes": "HUNEW 1.0.34 (diag build Horal): Horal pruvodce krok za krokem, export ZIP na USB (bez klicu), zalozka Pokrocile s popisy nastroju. Bez zmeny vychoziho vydeje."
+  "version": "1.0.58",
+  "released": "2026-11-08",
+  "asset": "HUNEW-Setup-1.0.58.exe",
+  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.58/HUNEW-Setup-1.0.58.exe",
+  "sha256": "ee97eba18aebf17f939d883ff6939cf2b22ec7f65e306227fe82c9f48d1a3b63",
+  "notes": "HUNEW 1.0.58: srovnání s databází Locku v Nastavení → Databáze / SQL; hostovské karty Horal S10 přes Lock sekvenci; oprava wellness RoomIP; opravy 1.0.51–1.0.57."
 }
