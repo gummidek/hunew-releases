@@ -1,9 +1,9 @@
 {
   "product": "hunew-desktop",
-  "version": "1.0.63",
+  "version": "1.0.64",
   "released": "2026-11-09",
-  "asset": "HUNEW-Setup-1.0.63.exe",
-  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.63/HUNEW-Setup-1.0.63.exe",
-  "sha256": "b84ad92711f28e53bb5557066eaf6abc3ec6d4ec99625ff245f38b20f85e6968",
-  "notes": "HUNEW 1.0.63: Assa karty - davkove vydani a Master/servisni karty v sektoru 10 bez cteni sektoru 0 (stejna Lock cesta jako hostovska karta); obsahuje opravy 1.0.63 (adresy skrinek z H_Room, import)."
+  "asset": "HUNEW-Setup-1.0.64.exe",
+  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.64/HUNEW-Setup-1.0.64.exe",
+  "sha256": "240623b0d6453379a8a43effe2baaad95418482af7ccd67e00a6c9547c92d770",
+  "notes": "HUNEW 1.0.64: H_Room pres hlavni SQL, kdyz HUNE SQL neni nastavene (tlacitko Prevzit adresy skrinek, vydani karty na skrinku - RoomIP/RPass); obsahuje 1.0.63 (Assa davka + master bez sektoru 0) a 1.0.62."
 }
