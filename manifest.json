@@ -1,9 +1,9 @@
 {
   "product": "hunew-desktop",
-  "version": "1.0.61",
+  "version": "1.0.63",
   "released": "2026-11-09",
-  "asset": "HUNEW-Setup-1.0.61.exe",
-  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.61/HUNEW-Setup-1.0.61.exe",
-  "sha256": "9a92b95c15480cad45cadcf64b5f9171eeb3386d89b410cf586178b497088bb6",
-  "notes": "HUNEW 1.0.61: okno Databaze / SQL uz nemaze SQL uzivatele (Zrusit vraci puvodni nastaveni); vydani karty na SQL Serveru bez chyby SqlServerRetryingExecutionStrategy."
+  "asset": "HUNEW-Setup-1.0.63.exe",
+  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.63/HUNEW-Setup-1.0.63.exe",
+  "sha256": "b84ad92711f28e53bb5557066eaf6abc3ec6d4ec99625ff245f38b20f85e6968",
+  "notes": "HUNEW 1.0.63: Assa karty - davkove vydani a Master/servisni karty v sektoru 10 bez cteni sektoru 0 (stejna Lock cesta jako hostovska karta); obsahuje opravy 1.0.63 (adresy skrinek z H_Room, import)."
 }
