@@ -1,9 +1,9 @@
 {
   "product": "hunew-desktop",
-  "version": "1.0.66",
+  "version": "1.0.67",
   "released": "2026-11-09",
-  "asset": "HUNEW-Setup-1.0.66.exe",
-  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.66/HUNEW-Setup-1.0.66.exe",
-  "sha256": "c42ca15bf169fc2e5749634c5f8b7c2cd345989e4e907b21b757d5e2ac42535e",
-  "notes": "HUNEW 1.0.66: casova karta (Hodiny) jako z Locku - opraveno prohozeni hodiny a minuty (zamek pak odmital hostovske karty 2x pipnutim); obsahuje 1.0.65 (casove RPass) a 1.0.64."
+  "asset": "HUNEW-Setup-1.0.67.exe",
+  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.67/HUNEW-Setup-1.0.67.exe",
+  "sha256": "8a27d56b85709fee9573726368a55497bbd82258986d0c65830d31989a09ea1e",
+  "notes": "HUNEW 1.0.67: nove karty v sektoru 10 (Assa/Horal) se pri vydani automaticky pripravi jako Format v Locku (hotelovy klic do sektoru 10, bez sektoru 0/UID); tlacitko Formatovat kartu; obsahuje 1.0.66 (casova karta) a 1.0.65."
 }
