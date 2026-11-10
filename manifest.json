@@ -1,9 +1,9 @@
 {
   "product": "hunew-desktop",
-  "version": "1.0.67",
-  "released": "2026-11-09",
-  "asset": "HUNEW-Setup-1.0.67.exe",
-  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.67/HUNEW-Setup-1.0.67.exe",
-  "sha256": "8a27d56b85709fee9573726368a55497bbd82258986d0c65830d31989a09ea1e",
-  "notes": "HUNEW 1.0.67: nove karty v sektoru 10 (Assa/Horal) se pri vydani automaticky pripravi jako Format v Locku (hotelovy klic do sektoru 10, bez sektoru 0/UID); tlacitko Formatovat kartu; obsahuje 1.0.66 (casova karta) a 1.0.65."
+  "version": "1.0.68",
+  "released": "2026-11-10",
+  "asset": "HUNEW-Setup-1.0.68.exe",
+  "url": "https://github.com/gummidek/hunew-releases/releases/download/v1.0.68/HUNEW-Setup-1.0.68.exe",
+  "sha256": "3fad032663d0657f4785cfedf65d7f8d50f8c3acf847510f34ebc034fe666820",
+  "notes": "HUNEW 1.0.68: Cist kartu na kartach Assa (sektor 10) bez chyby sektoru 0, prazdna karta nabidne Formatovat; Check Out a MAGIC bez sektoru 0; enkoder pripojeny po spusteni se pripoji sam (Znovu pripojit enkoder); O programu bez zminek o HUNE; Nastaveni SQL: odstraneno zbytecne Srovnat s Lockem; Stop karta se nevydava (Lock ji na Horalu nenabizi); obsahuje 1.0.67 (auto format Assa), 1.0.66 a 1.0.65."
 }
